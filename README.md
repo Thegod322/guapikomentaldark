@@ -1,7 +1,7 @@
 
 # Guapiko Mental Dark
 
-![Preview 1](images/Captura.PNG)
+![Preview 1](https://github.com/Thegod322/guapikomentaldark/raw/master/images/Captura.PNG)
 
 ## About
 
@@ -15,7 +15,7 @@
 
 ## Screenshot
 
-![Preview 3](images/Captura3.PNG)
+![Preview 3](https://github.com/Thegod322/guapikomentaldark/raw/master/images/Captura3.PNG)
 
 ## Installation
 
