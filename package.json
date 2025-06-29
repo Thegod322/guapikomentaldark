@@ -15,6 +15,7 @@
     "url": "https://github.com/Thegod322/guapikomentaldark"
   },
   "license": "MIT",
+  "icon": "images/GuapLogoPublisher.png",
   "contributes": {
     "themes": [
       {
