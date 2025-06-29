@@ -2,7 +2,7 @@
   "name": "guapikomentaldark",
   "publisher": "guapiko",
   "displayName": "GuapikoMentalDark",
-  "description": "Guapo darko",
+  "description": "Modern dark theme with vibrant accents and high readability, based on the colors of the Guapiko logo. Perfect for comfortable coding day and night.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.101.0"
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/guapiko/guapikomentaldark"
+    "url": "https://github.com/Thegod322/guapikomentaldark"
   },
   "license": "MIT",
   "contributes": {
