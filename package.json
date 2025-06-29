@@ -3,7 +3,7 @@
   "publisher": "guapiko",
   "displayName": "GuapikoMentalDark",
   "description": "Modern dark theme with vibrant accents and high readability, based on the colors of the Guapiko logo. Perfect for comfortable coding day and night.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.101.0"
   },

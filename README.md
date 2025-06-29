@@ -12,11 +12,10 @@
 - No unnecessary color noise—just pure, modern vibes
 - Designed for long coding sessions and creative work
 
-## Screenshots
 
-| Editor | Palette | Details |
-|--------|---------|---------|
-| ![Preview 2](images/Captura2.PNG) | ![Preview 3](images/Captura3.PNG) |  |
+## Screenshot
+
+![Preview 3](images/Captura3.PNG)
 
 ## Installation
 
