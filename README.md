@@ -27,3 +27,6 @@
 ## License
 
 MIT
+
+## Guapiko Art 
+Follow me on telegram <3 I do art! https://t.me/guapiko
