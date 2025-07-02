@@ -5,10 +5,10 @@
 		"editor.selectionBackground": "#ff78be74",
 		"editor.background": "#2e2e2e",
 		"editor.foreground": "#fff8fc",
-		"editorLineNumber.activeForeground": "#ff60dad1",
+		"editorLineNumber.activeForeground": "#ff5188d1",
 		"editor.selectionHighlightBackground": "#ff117c44",
 		"editor.wordHighlightBackground": "#ff117c44",
-		"activityBarBadge.background": "#cc005f",
+		"activityBarBadge.background": "#ed4779",
 		"activityBar.background": "#171717",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.background": "#171717",
@@ -25,7 +25,7 @@
 		"sideBarSectionHeader.background": "#171717",
 		"list.inactiveSelectionBackground": "#4b2b35bc",
 		"list.focusBackground": "#ff36d074",
-		"list.activeSelectionBackground":"#ff2870",
+		"list.activeSelectionBackground":"#ed5f89",
 		"minimap.selectionHighlight": "#ff63a99b"
 	},
 	"tokenColors": [
